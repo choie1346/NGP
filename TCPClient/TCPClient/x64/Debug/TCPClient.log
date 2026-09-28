@@ -1,2 +1,6 @@
 ﻿  Client.cpp
+C:\Users\GwonMinji\OneDrive\Desktop\넷겜플\실습\NGP\TCPClient\Client.cpp(92,10): warning C4477: 'printf' : 서식 문자열 '%lld'에 '__int64' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'long'입니다.
+      C:\Users\GwonMinji\OneDrive\Desktop\넷겜플\실습\NGP\TCPClient\Client.cpp(92,10):
+      서식 문자열에서 '%ld'을(를) 사용하는 것이 좋습니다.
+  
   TCPClient.vcxproj -> C:\Users\GwonMinji\OneDrive\Desktop\넷겜플\실습\NGP\TCPClient\x64\Debug\TCPClient.exe
