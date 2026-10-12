@@ -1,0 +1,6 @@
+﻿  ThreadTCPClient.cpp
+C:\Users\choie\Desktop\3-2\넷겜플\실습\ThreadTCPClient\ThreadTCPClient.cpp(81,10): warning C4477: 'printf' : 서식 문자열 '%lld'에 '__int64' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'long'입니다.
+      C:\Users\choie\Desktop\3-2\넷겜플\실습\ThreadTCPClient\ThreadTCPClient.cpp(81,10):
+      서식 문자열에서 '%ld'을(를) 사용하는 것이 좋습니다.
+  
+  ThreadTCPClient.vcxproj -> C:\Users\choie\Desktop\3-2\넷겜플\실습\ThreadTCPClient\x64\Debug\ThreadTCPClient.exe
